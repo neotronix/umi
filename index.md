@@ -1,19 +1,19 @@
 ## Staking UMI coins at a rate of +30% per month
 
 [@RoyClubTapBot](https://t.me/RoyClubTapBot?start=ref_1833084746) is a Telegram game where you can earn UMI coins at a rate of 30% per month.
-1 UMI = 177651 USDT (https://sigen.pro/trading/UMI_USDT) (now 188225 USDT)
+[1 UMI = 177651 USDT](https://sigen.pro/trading/UMI_USDT) (now 188225 USDT)
 
 Click 👉 Play (https://t.me/RoyClubTapBot?start=ref_1833084746) to perform actions and get rewarded.
 
-UMI (https://umi.top/) (Universal Money Instrument) — cryptocurrency on its own blockchain and Ecosystem for business and entertainment. All initial emission is given to the community. Up to 65,535 transactions per second with no fees. Smart staking 30% per month with dosed withdrawal. Automatic monthly overflows of unused coins. The first cryptocurrency with only intended use.
+[UMI](https://umi.top/) (Universal Money Instrument) — cryptocurrency on its own blockchain and Ecosystem for business and entertainment. All initial emission is given to the community. Up to 65,535 transactions per second with no fees. Smart staking 30% per month with dosed withdrawal. Automatic monthly overflows of unused coins. The first cryptocurrency with only intended use.
 
-🚀 Tell about the possibilities (https://t.me/instructions_DoStaTok/124) and activate the x9 click booster
+🚀 [Tell about the possibilities](https://t.me/instructions_DoStaTok/124) and activate the x9 click booster
 
 💡 Get useful information:
-✔️ Game instructions (https://t.me/instructions_DoStaTok)
-✔️ More about UMI coin (https://umi.top/)
-✔️ Official game channel (https://t.me/DoStaT0k)
-✔️ Official Community Chat (https://t.me/dostatok_official_chat)
+✔️ [Game instructions](https://t.me/instructions_DoStaTok)
+✔️ [More about UMI coin](https://umi.top/)
+✔️ [Official game channel](https://t.me/DoStaT0k)
+✔️ [Official Community Chat](https://t.me/dostatok_official_chat)
 
 👇 Take action 👇
 
