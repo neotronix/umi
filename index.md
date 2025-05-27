@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Staking UMI coins at a rate of +30% per month
 
-@RoyClubTapBot (https://t.me/RoyClubTapBot?start=ref_1833084746) is a Telegram game where you can earn UMI coins at a rate of 30% per month.
+[@RoyClubTapBot] (https://t.me/RoyClubTapBot?start=ref_1833084746) is a Telegram game where you can earn UMI coins at a rate of 30% per month.
 1 UMI = 177651 USDT (https://sigen.pro/trading/UMI_USDT) (now 188225 USDT)
 
 Click 👉 Play (https://t.me/RoyClubTapBot?start=ref_1833084746) to perform actions and get rewarded.
