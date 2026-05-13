@@ -13,7 +13,8 @@ const readDoc = contKey => {
                         e.target.result :
                         new Uint8Array(e.target.result);
         flag[contKey] = true;
-        pubkey = await (await fetch("public.key")).text();   
+        pubkey = await (await fetch("public.asc")).text();   
+//        pubkey = await (await fetch("public.key")).text();   
         if (flag["doc"] && flag["sig"])
             document.querySelector("button").disabled = false;
     }
